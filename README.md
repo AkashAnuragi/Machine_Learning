@@ -18,7 +18,6 @@ This repository documents my complete hands-on learning of **Machine Learning** 
 - [Statistical Foundations & EDA](#-statistical-foundations--eda)
 - [Text Mining & NLP](#-text-mining--nlp)
 - [Tech Stack](#-tech-stack)
-- [Folder Structure](#-folder-structure)
 - [Progress Tracker](#-progress-tracker)
 - [Connect With Me](#-connect-with-me)
 
@@ -148,49 +147,6 @@ Model / Analysis
 
 ---
 
-## 📁 Folder Structure
-
-```
-Machine_Learning/
-│
-├── 01_Introduction/
-│   ├── what_is_ml.ipynb
-│   ├── ml_usecases.ipynb
-│   ├── ml_process_flow.ipynb
-│   └── ml_categories.ipynb
-│
-├── 02_Time_Series_Analysis/
-│   ├── intro_to_tsa.ipynb
-│   ├── components_of_tsa.ipynb
-│   ├── white_noise.ipynb
-│   ├── AR_MA_ARMA_models.ipynb
-│   ├── ARIMA_model.ipynb
-│   ├── stationarity.ipynb
-│   └── ACF_PACF.ipynb
-│
-├── 03_EDA_Statistical_Foundations/
-│   ├── what_is_eda.ipynb
-│   ├── univariate_non_graphical.ipynb
-│   ├── univariate_graphical.ipynb
-│   ├── multivariate_non_graphical.ipynb
-│   ├── multivariate_graphical.ipynb
-│   └── heat_maps.ipynb
-│
-├── 04_Text_Mining_NLP/
-│   ├── overview_text_mining.ipynb
-│   ├── need_of_text_mining.ipynb
-│   └── nlp_in_text_mining.ipynb
-│
-├── datasets/
-│   └── (datasets used across notebooks)
-│
-├── notes/
-│   └── (handwritten notes, PDFs, references)
-│
-└── README.md
-```
-
----
 
 ## ✅ Progress Tracker
 
