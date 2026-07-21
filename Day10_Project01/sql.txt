@@ -1,0 +1,23 @@
+Create Database mlproject;
+use mlproject;
+
+CREATE TABLE customer(
+cid INT PRIMARY KEY AUTO_INCREMENT , 
+odate DATE,
+cname VARCHAR(100) ,
+state VARCHAR(100) ,
+city VARCHAR(100) , 
+gender VARCHAR(20)
+);
+
+
+CREATE TABLE Orders (
+    oid INT,
+    cid INT,
+    amt DECIMAL(10,2),
+    profit DECIMAL(10,2),
+    qty DECIMAL(10,2),
+    pcat VARCHAR(50),
+    pscat VARCHAR(50),
+    pmode VARCHAR(20)
+);
